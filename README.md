@@ -1,7 +1,7 @@
 # karijaq.github.io
 ## Computer Science Capstone
 
-This ePortfolio represents my work and growth throughought the Computer Science program adn serves as the final capstone of my Bachelors of Science Degree.
+This ePortfolio represents my work and growth throughought the Computer Science program and serves as the final capstone of my Bachelors of Science Degree.
 ### Professional Self-Assesment
 Completing the Computer Science program and building this ePortfolio has been a new and challenging experience for me. Coming into the program, I did not have prior industry experience in computer science, and my previous professional background was primarily in customer service and healthcare rather than IT. Because of this, much of what I learned throughout the program involved not only developing technical skills, but also learning how software projects are approached, built, and improved in a professional setting.
 
