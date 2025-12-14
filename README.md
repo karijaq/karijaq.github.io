@@ -39,3 +39,18 @@ This ePortfolio represents my growth throughout the Computer Science program and
 - **Enhanced Course Catalog (CS 499 – Python)**  
   [Download Enhanced Code](Enhanced-Course-Catalog.zip)
 
+## Enhancement Narratives
+
+One artifact was used to demonstrate enhancements across all three required areas of Computer Science.  
+A separate narrative was written for each enhancement to explain the changes made, the skills demonstrated, and how each enhancement aligns with the course outcomes.
+
+### Software Design and Engineering
+[Software Design and Engineering Narrative](CS499-SoftwareDesignEngineering-Narrative.docx)
+
+### Algorithms and Data Structures
+[Algorithms and Data Structures Narrative](CS499-AlgorithmsDataStructures-Narrative.docx)
+
+### Databases
+[Database Narrative](CS499-Database-Narrative.docx)
+  
+
