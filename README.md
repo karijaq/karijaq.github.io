@@ -45,12 +45,12 @@ One artifact was used to demonstrate enhancements across all three required area
 A separate narrative was written for each enhancement to explain the changes made, the skills demonstrated, and how each enhancement aligns with the course outcomes.
 
 ### Software Design and Engineering
-[Software Design and Engineering Narrative](CS499-SoftwareDesignEngineering-Narrative.docx)
+[Software Design and Engineering Narrative](CS499-SoftwareDesignEngineering-Narrative.pdf)
 
 ### Algorithms and Data Structures
-[Algorithms and Data Structures Narrative](CS499-AlgorithmsDataStructures-Narrative.docx)
+[Algorithms and Data Structures Narrative](CS499-AlgorithmsDataStructures-Narrative.pdf)
 
 ### Databases
-[Database Narrative](CS499-Database-Narrative.docx)
+[Database Narrative](CS499-Database-Narrative.pdf)
   
 
